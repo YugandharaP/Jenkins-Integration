@@ -15,7 +15,7 @@ public class HelloWorldApplication {
 	
 	@GetMapping("/")
 	public String getMessage() {
-		return "Hello World";
+		return "Welcome To BridgeLabz";
 		
 	}
 	
