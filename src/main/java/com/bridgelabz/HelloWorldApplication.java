@@ -15,7 +15,7 @@ public class HelloWorldApplication {
 	
 	@GetMapping("/")
 	public String getMessage() {
-		return "Hii..Yuga here";
+		return "I Love My India !";
 		
 	}
 	
