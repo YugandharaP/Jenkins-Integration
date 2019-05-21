@@ -47,12 +47,6 @@
    		<version>2.2.1</version>
 	</dependency>
 </dependencies>
-<pluginRepositories>
-		<pluginRepository>
-			<id>Maven-Artifactory-Plugin</id>
-			<url>https://jcenter.bintray.com</url>
-		</pluginRepository>
-</pluginRepositories>
 	<build>
 		<plugins>
 			<plugin>
